@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/bem-vindo/static/css/main.bf420e11.css",
-    "main.js": "/bem-vindo/static/js/main.7d7b2a04.js",
+    "main.js": "/bem-vindo/static/js/main.64c9b4a0.js",
     "static/js/787.9790161a.chunk.js": "/bem-vindo/static/js/787.9790161a.chunk.js",
     "static/media/circle01.png": "/bem-vindo/static/media/circle01.d5f17075d9e551c2d317.png",
-    "static/media/logo-sm.png": "/bem-vindo/static/media/logo-sm.288d91b72d1232d42a77.png",
     "static/media/carousel03.jpeg": "/bem-vindo/static/media/carousel03.44596a68c63a4cdc808c.jpeg",
     "static/media/carousel02.jpeg": "/bem-vindo/static/media/carousel02.7b11c83838c0b24864b3.jpeg",
+    "static/media/logo-sm.png": "/bem-vindo/static/media/logo-sm.92bdaddfe66148132981.png",
     "static/media/carousel011.jpeg": "/bem-vindo/static/media/carousel011.9748d027c4a7499c06e0.jpeg",
     "index.html": "/bem-vindo/index.html",
     "main.bf420e11.css.map": "/bem-vindo/static/css/main.bf420e11.css.map",
-    "main.7d7b2a04.js.map": "/bem-vindo/static/js/main.7d7b2a04.js.map",
+    "main.64c9b4a0.js.map": "/bem-vindo/static/js/main.64c9b4a0.js.map",
     "787.9790161a.chunk.js.map": "/bem-vindo/static/js/787.9790161a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf420e11.css",
-    "static/js/main.7d7b2a04.js"
+    "static/js/main.64c9b4a0.js"
   ]
 }
