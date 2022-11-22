@@ -13,33 +13,40 @@ export function Redes() {
     <Style>
       <div className="Redes">
         <div className="MainContent">
-          <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faInstagram} />
+          <a href="https://www.instagram.com/sabordomel.buffet" target="_blank" rel="noreferrer">
+            <div className="Redes__Items">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faInstagram} />
+              </div>
+              <small>Instagram</small>
             </div>
-            <small>Instagram</small>
-          </div>
-          <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faGlobe} />
+          </a>
+          <a href="https://smgastronomia.com/" target="_blank" rel="noreferrer">
+            <div className="Redes__Items">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faGlobe} />
+              </div>
+              <small>Site Oficial</small>
             </div>
-            <small>Site Oficial</small>
-          </div>
-          <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faLocationDot} />
+          </a>
+          <a href="https://smgastronomia.com/localizacao" target="_blank" rel="noreferrer">
+            <div className="Redes__Items">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faLocationDot} />
+              </div>
+              <small>Localização</small>
             </div>
-            <small>Localização</small>
-          </div>
-          <div className="Redes__Items">
-            <div className="IconItem">
-              <FontAwesomeIcon icon={faEnvelope} />
+          </a>
+          <a href="https://smgastronomia.com/contate-nos" target="_blank" rel="noreferrer">
+            <div className="Redes__Items">
+              <div className="IconItem">
+                <FontAwesomeIcon icon={faEnvelope} />
+              </div>
+              <small>Orçamento</small>
             </div>
-            <small>Orçamento</small>
-          </div>
+          </a>
         </div>
-        <div className="BackgroundImageRedes">
-        </div>
+        <div className="BackgroundImageRedes"></div>
       </div>
     </Style>
   );

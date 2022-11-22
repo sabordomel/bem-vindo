@@ -17,7 +17,9 @@ const redes = styled.div`
         background-color: transparent;
         animation: opacitor 2s ease-in-out;
 
-
+        a {
+            text-decoration: none;
+        }
         .BackgroundImageRedes {
             position: absolute;
             opacity: .5;
